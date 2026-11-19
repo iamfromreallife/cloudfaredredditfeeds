@@ -123,3 +123,8 @@ The bridge stores recent Reddit listing snapshots and comment data in Cloudflare
 - [WebSub specification](https://www.w3.org/TR/websub/)
 
 No affiliation with Reddit, Cloudflare, Inoreader, or the Google PubSubHubbub service is claimed.
+
+<img width="1599" height="566" alt="Captura de ecrã 2026-11-19 150330" src="https://github.com/user-attachments/assets/7dde0c76-42ba-4a9c-a55d-3e3e7771f897" />
+
+<img width="1537" height="714" alt="Captura de ecrã 2026-11-19 150401" src="https://github.com/user-attachments/assets/82d4a6ce-afaa-4381-b5bd-7fde4bb71244" />
+
