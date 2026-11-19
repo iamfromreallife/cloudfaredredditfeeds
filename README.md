@@ -128,3 +128,8 @@ No affiliation with Reddit, Cloudflare, Inoreader, or the Google PubSubHubbub se
 
 <img width="1537" height="714" alt="Captura de ecrã 2026-11-19 150401" src="https://github.com/user-attachments/assets/82d4a6ce-afaa-4381-b5bd-7fde4bb71244" />
 
+The Admin page on cloudfare:
+
+<img width="979" height="727" alt="image" src="https://github.com/user-attachments/assets/d2e6e8e6-fe46-45a7-978f-bd4f8c9246fc" />
+
+
